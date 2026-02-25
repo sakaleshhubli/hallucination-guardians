@@ -1,0 +1,4 @@
+project_id = "ymvdywrwdabhikaltuvc"
+
+[functions.detect-hallucination]
+verify_jwt = false
